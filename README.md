@@ -25,7 +25,7 @@ pip install uv
 
 ### 1. Clone the repository
 ```bash
-uv pip install -r requirements.txt
+git clone https://github.com/benhur07b/awesome-data-philippines-v2.git
 ```
 
 ### 2. Go to the project directory
