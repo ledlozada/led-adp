@@ -122,3 +122,39 @@ nav:
     - how-to/index.md
   - Catalog:
     - catalog/index.md
+    - Transport:
+      - catalog/transport/index.md
+      - Safe Travel PH: catalog/transport/safe-travel-ph.md
+      - Mobility Database: catalog/transport/mobility-database.md
+      - Transitland: catalog/transport/transitland.md
+    - Demography:
+      - catalog/demography/index.md
+      - Philippine Population Data Archive (PopArchive): catalog/demography/pop-archive.md
+    - Governance:
+      - catalog/gov/index.md
+      - Cities and Municipalities Competitiveness Index (CMCI) Rankings Portal: catalog/gov/cmci.md
+      - Philippine Standard Geographic Code: catalog/gov/psgc.md
+      - Philippine Local Government Interactive Dataset: catalog/gov/ph-lgu-interactive-dataset.md
+    - Environment:
+      - catalog/environment/index.md
+      - Berkeley Earth Climate Data: catalog/environment/berkeley-earth-climate-data.md
+      - Light Pollution Map: catalog/environment/light-pollution-map.md
+      - Compendium of Philippine Environment Statistics (CPES): catalog/environment/cpes.md
+      - Earthdata Search: catalog/environment/earthdata-search.md
+    - Administrative and Infrastructure:
+      - catalog/admin-infra/index.md
+      - World Administrative Boundaries - Countries and Territories: catalog/admin-infra/world-admininstrative-boundaries.md
+      - GADM data (version 4.1): catalog/admin-infra/gadm-v4.1.md
+      - Philippines - Subnational Administrative Boundaries: catalog/admin-infra/PH-subnational-admin.md
+      - Philippines Roads (OpenStreetMap Export): catalog/admin-infra/PH-roads-osm-export.md
+    - Biophysical Data:
+      - catalog/bio/index.md
+      - Allen Coral Atlas: catalog/bio/allen-coral-atlas.md
+      - Project SARAi Interactive Maps: catalog/bio/ph-sarai.md
+      - Global Biodiversity Information Facility (GBIF): catalog/bio/gbif.md
+    - Health:
+      - catalog/health/index.md
+      - International Genome Sample Resource (IGSR): catalog/health/igsr.md
+    - Climate: 
+      - catalog/climate/index.md
+      - PHIVOLCS Geomatics Service Request: catalog/climate/PHIVOLCS-gsr.md
